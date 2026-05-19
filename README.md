@@ -7,9 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-###################
-Importar la base de datos, ubicada en la rama principal "bd.sql"
-###################
+## Importar la base de datos ubicada en la rama principal "bd.sql"
 
 ## About Laravel
 
